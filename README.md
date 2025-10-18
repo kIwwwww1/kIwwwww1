@@ -12,7 +12,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨‍💻 I’m actively learning and building pet-projects  
-- 🌱 Currently learning **Redis** and **Docker**  
+- 🌱 Currently learning **Docker**  
 - 🔍 Actively looking for a job as a backend developer  
 - 👯 I want to collaborate with **fast-growing and modern companies** 🤝
 - 🤔 I’m looking for an **experienced mentor** who can help me grow  
