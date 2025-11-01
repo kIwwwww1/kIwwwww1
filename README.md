@@ -25,17 +25,17 @@
 ### ⚡ Languages and Tools
 
 <div align="center">
-<img src="https://img.shields.io/badge/Python-7eb5e6?style=for-the-badge&logo=python&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/FastAPI-6cd4c3?style=for-the-badge&logo=fastapi&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/SQL-8ca0d7?style=for-the-badge&logo=postgresql&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-ea8a8a?style=for-the-badge&logo=sqlalchemy&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Pydantic-bc9ad8?style=for-the-badge&logo=pydantic&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Redis-f18c8e?style=for-the-badge&logo=redis&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Docker-8cc5f2?style=for-the-badge&logo=docker&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Aiogram-89c9f2?style=for-the-badge&logo=telegram&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Pytest-8bd3c7?style=for-the-badge&logo=pytest&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Httpx-a7b8f2?style=for-the-badge&logo=httpx&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Aiohttp-b2a7f2?style=for-the-badge&logo=aiohttp&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-1E1E1E?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-1E1E1E?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-1E1E1E?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-1E1E1E?style=for-the-badge&logo=pydantic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-1E1E1E?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-1E1E1E?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Aiogram-1E1E1E?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytest-1E1E1E?style=for-the-badge&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Httpx-1E1E1E?style=for-the-badge&logo=httpx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Aiohttp-1E1E1E?style=for-the-badge&logo=aiohttp&logoColor=white"/>
 </div>
 
 ---
