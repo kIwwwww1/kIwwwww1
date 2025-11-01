@@ -12,7 +12,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨‍💻 I’m actively learning and building pet-projects  
-- 🌱 Currently learning **Docker**  
+- 🌱 Currently learning **Celery**, **RabbitMQ**, **Docker** **GitLab CI/CD**  
 - 🔍 Actively looking for a job as a backend developer  
 - 👯 I want to collaborate with **fast-growing and modern companies** 🤝
 - 🤔 I’m looking for an **experienced mentor** who can help me grow  
@@ -32,8 +32,11 @@
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  <!-- <img src="https://img.shields.io/badge/Requests-005C9C?style=for-the-badge&logo=python&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-005C9C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytest-005C9C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Httpx-005C9C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Aiohttp-005C9C?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 ---
