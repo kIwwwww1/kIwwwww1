@@ -16,7 +16,7 @@
 - 🔍 Actively looking for a job as a backend developer  
 - 👯 I want to collaborate with **fast-growing and modern companies** 🤝
 - 🤔 I’m looking for an **experienced mentor** who can help me grow
-- 👨‍💻 1 year of commercial experience
+- 👨‍💻 3 months of commercial experience
 
 [📫 Contact me on Telegram](https://t.me/Receiver_of_God)  
 [💻 My GitHub](https://github.com/kIwwwww1)
