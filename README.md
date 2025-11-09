@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/SQLAlchemy-e94e1b?style=for-the-badge&logo=sqlalchemy&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/PostgreSQL-2CA5E0?style=for-the-badge&logo=postgresql&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Pydantic-a64ac9?style=for-the-badge&logo=pydantic&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/RabbitMQ-e56a00?style=for-the-badge&logo=rabbitmq&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Redis-c41a1a?style=for-the-badge&logo=redis&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Docker-1d63ed?style=for-the-badge&logo=docker&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Aiogram-229ed9?style=for-the-badge&logo=telegram&logoColor=ffffff"/>
