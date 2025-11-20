@@ -39,6 +39,7 @@
 <img src="https://img.shields.io/badge/Pytest-009688?style=for-the-badge&logo=pytest&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Httpx-7b1fa2?style=for-the-badge&logo=httpx&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Aiohttp-512da8?style=for-the-badge&logo=aiohttp&logoColor=ffffff"/>
+ <img src="https://img.shields.io/badge/Celery-e94e1b?style=for-the-badge&logo=celery&logoColor=ffffff"/>
 </div>
 
 
