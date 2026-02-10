@@ -26,6 +26,9 @@
 ### ⚡ Languages and Tools
 
 <div align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/FastAPI-00acc1?style=for-the-badge&logo=fastapi&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/SQL-3a6ea5?style=for-the-badge&logo=postgresql&logoColor=ffffff"/>
@@ -39,7 +42,7 @@
 <img src="https://img.shields.io/badge/Pytest-009688?style=for-the-badge&logo=pytest&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Httpx-7b1fa2?style=for-the-badge&logo=httpx&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Aiohttp-512da8?style=for-the-badge&logo=aiohttp&logoColor=ffffff"/>
- <img src="https://img.shields.io/badge/Celery-e94e1b?style=for-the-badge&logo=celery&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Celery-e94e1b?style=for-the-badge&logo=celery&logoColor=ffffff"/>
 </div>
 
 
